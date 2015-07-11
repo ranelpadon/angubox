@@ -1,6 +1,6 @@
 # angubox
 Angubox: Angular + Mapbox
-Responsive Angular and Mapbox integration featuring a practical use case.
+<br>Responsive Angular and Mapbox integration featuring a practical use case.
 
 
 ### HIGHLIGHTS
